@@ -46,6 +46,11 @@ section {
 
 .hero--text {
     margin-top: 0;
+    
+}
+
+.hero--text, .hero--header {
+    margin-left: 20px;
 }
 
 .cards-list {
@@ -100,3 +105,4 @@ section {
     font-weight: bold;
 
 }
+
