@@ -1,6 +1,6 @@
 # AirBNB Clone Layout
 
-![Layout]((https://github.com/anony-mouse1/airbnb-clone/blob/master/layout.jpg?raw=true))
+![Layout](https://github.com/anony-mouse1/airbnb-clone/blob/master/public/images/layout.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
